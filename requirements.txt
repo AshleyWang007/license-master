@@ -1,0 +1,13 @@
+certifi
+chardet
+crypto
+idna
+Naked
+psutil
+PyYAML
+requests
+shellescape
+urllib3
+PyQt5
+pycryptodome
+Crypto
